@@ -1,6 +1,7 @@
 body {
     background-image: url('../img/cat.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-size: 500px 600px;
+    background-position: center 150px;
+    background-color: rgb(170, 170, 170);
 } 
