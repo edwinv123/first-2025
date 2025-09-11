@@ -1,7 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-image: url('../img/cat.jpg');
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('../img/fc-barcelona-desktop-mgikaponxousbi8b.jpg');
     background-repeat: no-repeat;
-    background-size: 500px 600px;
-    background-position: center 150px;
+    background-position: center;
+    background-size: cover;
     background-color: rgb(170, 170, 170);
 } 
+
